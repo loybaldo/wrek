@@ -9,7 +9,7 @@ A command-line application for retrieving Wi-Fi credentials.
 1. Get a copy of the source code.
 
     ```powershell
-    git clone "https://github.com/loyzbal/wrek.git"
+    git clone "https://github.com/loybaldo/wrek.git"
     ```
 
 2. Install all the libraries.
