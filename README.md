@@ -2,9 +2,13 @@
 
 A command-line application for retrieving Wi-Fi credentials.
 
-> **_NOTE:_**  Use this tool only if you have authorized to perform.
+> **Note:** This tool should only be used if you have authorized access to the Wi-Fi network. 
 
-## Using Wrek
+## Disclaimer
+
+The use of this tool to retrieve Wi-Fi credentials without proper authorization is illegal and unethical. By using this tool, you agree to only use it for legitimate and ethical purposes. The author of this tool is not responsible for any illegal or unethical use of the tool.
+
+## Usage
 
 1. Get a copy of the source code.
 
@@ -12,7 +16,7 @@ A command-line application for retrieving Wi-Fi credentials.
     git clone "https://github.com/loybaldo/wrek.git"
     ```
 
-2. Install all the libraries.
+2. Install required libraries.
 
     ```powershell
     pip install -r "requirements.txt"
@@ -29,10 +33,10 @@ A command-line application for retrieving Wi-Fi credentials.
 1. Get a copy of the source code.
 
     ```powershell
-    git clone "https://github.com/loyzbal/wrek.git"
+    git clone "https://github.com/loybaldo/wrek.git"
     ```
 
-2. Go to the FBHack root directory
+2. Go to the Wrek root directory
 
     ```powershell
     # For Windows PowerShell
@@ -52,7 +56,7 @@ A command-line application for retrieving Wi-Fi credentials.
     .venv\Scripts\activate.bat
     ```
 
-5. Install all the libraries.
+5. Install required libraries.
 
     ```powershell
     pip install -r "requirements.txt"
